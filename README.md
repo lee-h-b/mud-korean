@@ -1,4 +1,4 @@
-# roguelike-korean
+# mud-korean
 
 release에 실행가능한 exe파일이 있습니다
 
